@@ -1,4 +1,4 @@
-update=Tue 05 Apr 2016 17:16:31 EEST
+update=Monday, September 26, 2016 'PMt' 02:12:13 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -106,4 +106,4 @@ LibName74=/usr/share/kicad/kicad-library/library/video
 LibName75=/usr/share/kicad/kicad-library/library/Xicor
 LibName76=/usr/share/kicad/kicad-library/library/xilinx
 LibName77=/usr/share/kicad/kicad-library/library/Zilog
-LibName78=/home/azisi/Documents/SatNOGS/satnogs-rotator-controller/PCB/library/satnogs
+LibName78=/Users/ccrewd/satnogs/satnogs-rotator-controller/PCB/library/satnogs
